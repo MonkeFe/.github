@@ -1,6 +1,9 @@
-## Hi there 👋
+## MonkeFe
+Informatica - Università degli Studi di Ferrara
+
+## Brief Description
 Simple org. to share data easily for our classes and courses.
-![Unife](https://www.unife.it/it/++plone++unife.plonetheme/logo.png)
+<kbd><img src="https://www.unife.it/it/++plone++unife.plonetheme/logo.png" height="200px" alt="Logo" style="border-radius:5px;"/></kbd>
 <!--
 
 **Here are some ideas to get you started:**
